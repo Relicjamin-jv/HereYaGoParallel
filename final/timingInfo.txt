@@ -1,0 +1,9 @@
+Collin Campbell ~ COMP 233A ~ serial and MPI Bash Script
+
+Serial time took 513.52 seconds
+The timing for 4 was 298.97
+The timing for 4 was 291.81
+
+
+Bash Script Terminated
+
